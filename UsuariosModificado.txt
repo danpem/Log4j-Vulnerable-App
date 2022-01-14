@@ -1,0 +1,5 @@
+Juan,Perez
+Juana,Perez
+John,Doe
+Jean,${jndi:ldap://127.0.0.1/mensaje=0001}
+Max,Musterman
