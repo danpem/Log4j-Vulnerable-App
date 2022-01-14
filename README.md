@@ -12,7 +12,6 @@ It uses Log4j 2.14.1  and the JDK 1.8.0_181.
 This project  shows a  simple program that is affected by this vulnerability. There are some examples that show that a web application can be compromised. Processing files is another way to exploit the vulnerability, so this project includes a simple file processing and an example of how can be a batch process compromised.
 
 
-https://en1gm4.com/enigma/Log4j-pruebas-penetracion-pentest.html
 
 The complete explanation is in the following link   [Log4Shell y la importancia de las pruebas de penetración](https://en1gm4.com/enigma/Log4j-pruebas-penetracion-pentest.html) and it is part of an awareness program. 
 
