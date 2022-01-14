@@ -1,4 +1,4 @@
-# Vulnerable-App a simple application to show the problem (CVE-2021-44228)
+# Vulnerable-App a simple application to show the problem the Log4shell (CVE-2021-44228)
 A simple vulnerable App that shows the problem in log4j with the Log4shell vulnerability [CVE-2021-44228](https://www.cisa.gov/uscert/apache-log4j-vulnerability-guidance) .
 
 This repository contains a basic application without any other library than the vulnerable one, vulnerable  to CVE-2021-44228, nicknamed Log4Shell and it was inspired in the [Spring Boot web application vulnerable](https://github.com/christophetd/log4shell-vulnerable-app.git) by Christopherd.
